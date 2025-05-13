@@ -1,0 +1,3 @@
+[build]
+  functions = "netlify/functions"  # Папка с функциями
+  publish = "public"
